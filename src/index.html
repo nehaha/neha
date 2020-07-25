@@ -4,14 +4,54 @@
 	<meta charset="utf-8">
 	<title> NEHA'S WEBSITE </title>
 	<link rel="stylesheet" href="style.css">
+	<script src="https://use.fontawesome.com/988e619370.js"></script>
 </head>
 
 <body>
+	
+	<!-- Header -->
+	<header id="header" class="alt">
+		<div class="logo">
+			<a href="index.html"> Neha <span>abc</span></a>
+		</div>
+		<div >
+			<!-- href="#menu" -->
+			<a role="button" class="toggle">
+				<span onclick="toggleMenu()">
+					Menu
+					<i class="fa fa-bars menu-icon-styling" style="font-size:60px;"></i>
+				</span>
+			</a>
+		</div>
+	</header>
+
+	<!-- Nav -->
+	<nav class="navigation-bar" id="menu">
+		<ul class="links">
+			<li class="menu-item">
+				<a href="index.html" class="menu-link">Home</a>
+			</li>
+			<li class="menu-item">
+				<a href="index.html" class="menu-link">Not Home</a>
+			</li>
+			<li class="menu-item">
+				<a href="index.html" class="menu-link">
+					<i class="fa fa-facebook"></i>
+					<i class="fa fa-bars"></i>					
+				</a>
+			</li>
+		</ul>
+	</nav>
+
 	<div class="video-background-wrapper">
 		<!-- The video -->
-		<video autoplay muted loop id="myVideo">
+		<video autoplay muted loop id="myVideo" class="video-background">
 			<source src="bangkok-city.mp4" type="video/mp4">
 		</video>
 	</div>	
+
+	<!-- Scripts -->
+	<script src="main.js"></script>
+
 </body>
 </html>
