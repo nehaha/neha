@@ -8,18 +8,14 @@
 </head>
 
 <body>
-	
+
 	<!-- Header -->
 	<header id="header" class="alt">
 		<div class="logo">
 			<a href="index.html"> Neha <span>abc</span></a>
-		</div>
-		<div >
-			<!-- href="#menu" -->
-			<a role="button" class="toggle">
-				<span onclick="toggleMenu()">
-					Menu
-					<i class="fa fa-bars menu-icon-styling" style="font-size:60px;"></i>
+			<a role="button" class="toggle-open" id="openMenu">
+				<span onclick="toggleOpenMenu()">
+					<i class="fa fa-bars menu-icon-styling" style="font-size:20px;"></i>
 				</span>
 			</a>
 		</div>
@@ -27,6 +23,11 @@
 
 	<!-- Nav -->
 	<nav class="navigation-bar" id="menu">
+		<a role="button" class="toggle-close">
+			<span onclick="toggleCloseMenu()">
+				<i class="fa fa-times menu-icon-styling" style="font-size:20px;"></i>
+			</span>
+		</a>
 		<ul class="links">
 			<li class="menu-item">
 				<a href="index.html" class="menu-link">Home</a>
