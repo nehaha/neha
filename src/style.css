@@ -189,6 +189,12 @@ body {
     padding: 10px;
   }
 
+  #menu .copyright {
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+  }
+
   #menu .social-medias {
     text-align: center;
     position: fixed;
