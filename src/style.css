@@ -40,13 +40,14 @@ body {
 
 #header .toggle-open,
 #menu .toggle-close {
+  font-size: 22px;
   color: white;
   border: 1px;     
-  width: 50px; 
+  width: 38px; 
   height: 50px;
   position: absolute;
-  top: 15px;
-  right: 10px;
+  top: 20px;
+  right: 0px;
   cursor: pointer;
 }
 
@@ -105,10 +106,12 @@ body {
     display: block;
     line-height: 3.5em;
     text-decoration: none;
+    text-align: center;
   }
 
   #menu > ul.links > li > a:not(.button):hover,
-  #menu .toggle-close:hover {
+  #menu .toggle-close:hover,
+  #menu > ul.links > div > a:not(.button):hover {
     color: #5AA6ED;
   }
 
@@ -175,4 +178,20 @@ body {
     transform: translateX(0);
     box-shadow: 0 0 1.5em 0 rgba(0, 0, 0, 0.2);
     visibility: visible;
+  }
+
+  #menu > ul.links > div > a:not(.button) {
+    border: 0;
+    color: #fff;
+    line-height: 3.5em;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px;
+  }
+
+  #menu .social-medias {
+    text-align: center;
+    position: fixed;
+    top: 75%;
+    width: 230px;
   }
