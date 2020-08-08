@@ -1,4 +1,41 @@
-baseURL = "http://nehasatapathy.com"
+baseURL = "http://nehasatapathy.com/"
 languageCode = "en-us"
-title = "Neha's Website"
-theme = "dream"
+title = "Neha Satapathy"
+theme = "dream-template"
+
+[params]
+  background = "black"
+  # backgroundImage = "/pika2.jpg"
+  linkColor = "#9B59B6"
+
+  author = "nehaha"
+  description = "NEHA SATAPATHY"
+  avatar = "/pika2.jpg"
+  motto = "lean wit it rock wit it"
+  categoriesLimitInHeader = 6
+  # headerBottomText = ""
+
+  rss = true
+
+  # utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+
+  email = "n.satapathy02@gmail.com"
+  # twitter = ""
+  # facebook = ""
+  # instagram = ""
+  linkedin = "nehasatapathy"
+  github = "nehaha"
+  # stackoverflow = ""
+  # codepen = ""
+
+  siteStartYear = 2020
+
+  favicon = "/favicon.ico"
+
+  # options
+  showSummaryCoverInPost = true
+
+  # dark mode
+  darkLinkColor = "#BB8FCE"
+  darkNav = true
+  dark404 = true
