@@ -1,7 +1,7 @@
 baseURL = "http://nehasatapathy.com/"
 languageCode = "en-us"
 title = "Neha Satapathy"
-theme = "dream-template"
+theme = "dream"
 
 [params]
   background = "black"
