@@ -1,5 +1,5 @@
 <div class="ui centered relaxed grid dream-grid dream-back">
-  {{ $headless := .Site.GetPage "/about" }}
+  {{ $headless := .Site.GetPage "/blog" }}
   {{ $aboutPages := $headless.Resources.ByType "page" }}
   {{ range $aboutPages }}
     <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">

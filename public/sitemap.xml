@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://nehasatapathy.com/blog/</loc>
+    <lastmod>2020-08-08T16:11:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/blog/hello/</loc>
+    <lastmod>2020-08-08T16:11:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/tags/life/</loc>
+    <lastmod>2020-08-08T16:11:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/</loc>
+    <lastmod>2020-08-08T16:11:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/tags/noob/</loc>
+    <lastmod>2020-08-08T16:11:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/tags/</loc>
+    <lastmod>2020-08-08T16:11:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/categories/</loc>
+  </url>
+  
+</urlset>
