@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nehasatapathy.com/</loc>
+    <lastmod>2020-08-08T16:17:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/posts/</loc>
+    <lastmod>2020-08-08T16:17:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nehasatapathy.com/posts/random-post/</loc>
+    <lastmod>2020-08-08T16:17:43-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nehasatapathy.com/blog/</loc>
     <lastmod>2020-08-08T16:11:13-04:00</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>http://nehasatapathy.com/tags/life/</loc>
-    <lastmod>2020-08-08T16:11:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nehasatapathy.com/</loc>
     <lastmod>2020-08-08T16:11:13-04:00</lastmod>
   </url>
   
