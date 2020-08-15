@@ -205,26 +205,13 @@ body {
 #aboutMeWrapper {
   position: fixed;
   top: 0;
-  right: 0;
+  right: 22%;
   bottom: 0;
-  left: 0;
+  left: 22%;
   overflow: hidden;
   z-index: -99;
-  min-width: 100%;
-  min-height: 100%;
-  background-color: purple;
+  min-width: 700px; 
+  min-height: 100%; 
+  background-color: #111;
+  opacity: 0.75;
 }
-
-#aboutMeWrapper .about-me-description {
-    
-}
-/*{
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-  height: 100%;
-  width: 100%;
-  font-size: 14px;
-  font-family: Karla,sans-serif;
-}*/
