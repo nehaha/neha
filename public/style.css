@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Taviraj:300,400,700,300i,400i,700i");
 
 * {
@@ -202,29 +201,16 @@ body {
     width: 230px;
   }
 
-#aboutMeWrapper {
+#about {
   position: fixed;
   top: 0;
-  right: 0;
+  right: 22%;
   bottom: 0;
-  left: 0;
+  left: 22%;
   overflow: hidden;
   z-index: -99;
-  min-width: 100%;
-  min-height: 100%;
-  background-color: purple;
+  min-width: 700px; 
+  min-height: 100%; 
+  background-color: #111;
+  opacity: 0.75;
 }
-
-#aboutMeWrapper .about-me-description {
-    
-}
-/*{
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-  height: 100%;
-  width: 100%;
-  font-size: 14px;
-  font-family: Karla,sans-serif;
-}*/
