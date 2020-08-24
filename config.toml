@@ -2,6 +2,8 @@ baseURL = "http://nehasatapathy.com/"
 languageCode = "en-us"
 title = "Neha Satapathy"
 theme = "dream"
+googleAnalytics = "UA-176280849-1"
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
