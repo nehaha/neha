@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Neha Satapathy"
 theme = "dream"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   background = "black"
   # backgroundImage = "/pika2.jpg"
@@ -11,7 +14,7 @@ theme = "dream"
   author = "nehaha"
   description = "NEHA SATAPATHY"
   avatar = "/pika2.jpg"
-  motto = "lean wit it rock wit it"
+  motto = "Strong type A-/B+ personality"
   categoriesLimitInHeader = 6
   # headerBottomText = ""
 
@@ -31,6 +34,15 @@ theme = "dream"
   siteStartYear = 2020
 
   favicon = "/favicon.ico"
+
+  highlightjs = true
+  #highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
 
   # options
   showSummaryCoverInPost = true
