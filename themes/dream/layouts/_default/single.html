@@ -33,7 +33,7 @@
       </header>
 
       {{ if .Site.Params.showSummaryCoverInPost }}
-        <img class="ui image" style="margin-top: 2rem; min-height: 60px; min-width: 60px; max-height: 600px; max-width: 600px;" src="{{ .Params.Cover }}" />
+        <img class="ui image" style="margin-top: 2rem; width: 80%; min-height: 60px; min-width: 60px; max-height: 600px; max-width: 600px;" src="{{ .Params.Cover }}" />
       {{ end }}
 
       <article style="margin-top: 2rem;">{{ .Content | emojify }}</article>
