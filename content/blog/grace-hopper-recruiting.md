@@ -11,7 +11,7 @@ I went to my first GHC in my **third** year of college.
 <!--more-->
 At the time, I felt so behind my peers because it seemed like everyone had known about this conference since freshman year and already had awesome internships and invites to conference events lined up, whereas I was still trying to process the magnitude of this conference. Two years and two conferences later, I've done my processing and picked up a few tips and tricks for making the most out of the 2.5 day conference that I am excited to finally share as I wrap up my undergraduate career. 
 
-<img src="/img/GHC-recruiting-timeline.jpg" style ="width: 30%; display: block; margin-left:auto; margin-right:auto;">
+<img src="/img/GHC-recruiting-timeline.jpg" style ="width: 30%; min-width: 60px; display: block; margin-left:auto; margin-right:auto;">
 
 # Two months before the conference
 
