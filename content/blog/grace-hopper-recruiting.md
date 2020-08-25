@@ -40,6 +40,8 @@ If you haven't already, go through the **ENTIRE** list of companies that will be
 
 I know this can sound very obsessive and nit picky, but trust me, you will thank me during the fair. This can be a **huge** timesaver and will also save you from decision fatigue in having to figure out where to go and who to talk to. 
 
+![Alt Text](https://media.giphy.com/media/Kx7HO28xRu1cG8S3GB/giphy.gif)
+
 ### Print out at least 50 copies of your resume
 **This. is. not. a. drill.** There are going to be at least a hundred companies present at the career fair, and even if there aren't 50 companies on your list of companies to talk to, there will be companies and people who will be taking resumes and you honestly never know when you will need it. 
 
@@ -62,6 +64,8 @@ If it hasn't been made clear already, Grace Hopper can be **hectic**, and it can
 ### Stick to the plan
 **RELAX** and stick to your schedule! You've worked hard in planning a successful conference for yourself so now its time to put the plan into action. Try to be extra sociable (coffee helps) and try to have fun getting to meet new people! That being said, you need to find the balance between quality and quantity. Sometimes its better to have genuine conversations with people vs hitting up as many booths as you can.
 
+![Alt Text](https://media.giphy.com/media/49Q9TXjm8lvWw/giphy.gif)
+
 ### Dress comfortably
 The beauty of a tech conference is that most people don't expect you to be wearing a full pantsuit. I've done GHC in jeans and a nice top with comfortable tennis shoes. 
 
@@ -81,4 +85,4 @@ This is **especially** important if you get an offer from any companies you inte
 ### Follow up with companies you may not have interviewed with but are interested in interviewing with
 Recruiting can but doesn't necessarily stop after the conference! Keep the momentum you've built going by continuing to network and reach out to companies you are interested in learning more about.
 
-
+![Alt Text](https://media.giphy.com/media/jS27LWasgUIYrXtP83/giphy.gif)
