@@ -1,7 +1,7 @@
 ---
 title: Everything You Need To Know About The Grace Hopper Conference
 date: 2020-08-22T19:00:30-04:00
-#lastmod: 2020-08-22T19:00:30-04:00
+#lastmod: 2020-08-23T19:00:30-04:00
 author: Neha Satapathy
 cover: /img/ghc2019.JPG
 tags: ["ghc", "tech", "career"]

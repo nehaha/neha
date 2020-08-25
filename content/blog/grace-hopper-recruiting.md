@@ -1,15 +1,17 @@
 ---
 title: How To Recruit At GHC
 date: 2020-08-24T19:00:30-04:00
-#lastmod: 2020-08-24T19:00:30-04:00
+#lastmod: 2020-08-22T19:00:30-04:00
 cover: /img/ghc.jpg
 tags: ["ghc", "tech", "recruiting", "career"]
-draft: true
+draft: false
 ---
 
 I went to my first GHC in my **third** year of college.
 <!--more-->
 At the time, I felt so behind my peers because it seemed like everyone had known about this conference since freshman year and already had awesome internships and invites to conference events lined up, whereas I was still trying to process the magnitude of this conference. Two years and two conferences later, I've done my processing and picked up a few tips and tricks for making the most out of the 2.5 day conference that I am excited to finally share as I wrap up my undergraduate career. 
+
+<img src="/img/GHC-recruiting-timeline.jpg" style ="width: 30%; min-width: 400px; display: block; margin-left:auto; margin-right:auto;">
 
 # Two months before the conference
 
@@ -49,7 +51,7 @@ By now, you might have some in-conference interviews scheduled or events lined u
 If you can, try to schedule your interviews closer to the end of the conference, or at least spread them out. The sooner you can hit up the career expo, the higher the chance that a company might have room to interview you on the spot!
 
 ### Pack snacks in your suitcase
-I've seen people bring empty suitcases with them in anticipation of all the 'SWAG' you get from companies during the conference (okay fine, 'people' is me. I brought an almost empty suitcase once). BUT, I wish someone had told me was to bring SNACKS. 
+I've seen people bring empty suitcases with them in anticipation of all the 'SWAG' you get from companies during the conference (okay fine, 'people' is me. I brought an almost empty suitcase once). BUT, I wish someone had told me to bring SNACKS. 
 
 If it hasn't been made clear already, Grace Hopper can be **hectic**, and it can be difficult to find time to get a bite to eat, especially when the eating area might be a considerable walk from wherever you need to be. Something that made my life 10 million times easier was carrying around CLIFF bars and snacking on those throughout the day. You'd be surprised by how many booths are there for coffee and water but how hard it can be to find food!
 

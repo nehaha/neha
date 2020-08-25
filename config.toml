@@ -8,6 +8,11 @@ googleAnalytics = "UA-176280849-1"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   background = "black"
   # backgroundImage = "/pika2.jpg"
