@@ -38,6 +38,14 @@
     </div>
   {{ end }}
 
+  {{ if .Site.Params.youtube }}
+    <div class="item">
+      <a href="https://www.youtube.com/channel/UCLphzsF-AIYpIIuDhBe7U6g" target="_blank">
+        <i class="{{ .IconSize }} youtube icon" title="Youtube"></i>
+      </a>
+    </div>
+  {{ end }}
+
   {{ if .Site.Params.linkedin }}
     <div class="item">
       <a href="https://www.linkedin.com/in/{{ .Site.Params.linkedin }}" target="_blank">
