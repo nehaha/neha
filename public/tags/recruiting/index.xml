@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recruiting on Neha Satapathy</title>
+    <link>http://nehasatapathy.com/tags/recruiting/</link>
+    <description>Recent content in recruiting on Neha Satapathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2020 19:00:30 -0400</lastBuildDate>
+    
+	<atom:link href="http://nehasatapathy.com/tags/recruiting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Recruit At GHC</title>
+      <link>http://nehasatapathy.com/blog/grace-hopper-recruiting/</link>
+      <pubDate>Mon, 24 Aug 2020 19:00:30 -0400</pubDate>
+      
+      <guid>http://nehasatapathy.com/blog/grace-hopper-recruiting/</guid>
+      <description>&lt;p&gt;I went to my first GHC in my &lt;strong&gt;third&lt;/strong&gt; year of college.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

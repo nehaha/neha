@@ -6,10 +6,46 @@
     <description>Recent content in Blogs on Neha Satapathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2020 16:11:13 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 19:30:48 -0400</lastBuildDate>
     
 	<atom:link href="http://nehasatapathy.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I Study for Coding Interviews</title>
+      <link>http://nehasatapathy.com/blog/interviewing101/</link>
+      <pubDate>Wed, 16 Sep 2020 19:30:48 -0400</pubDate>
+      
+      <guid>http://nehasatapathy.com/blog/interviewing101/</guid>
+      <description>&lt;p&gt;Having interned at Google, Facebook and JPMorgan, I have picked up a few tips and tricks for acing&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why I Attended Grace Hopper</title>
+      <link>http://nehasatapathy.com/blog/why-grace-hopper/</link>
+      <pubDate>Mon, 14 Sep 2020 13:06:50 -0400</pubDate>
+      
+      <guid>http://nehasatapathy.com/blog/why-grace-hopper/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How To Recruit At GHC</title>
+      <link>http://nehasatapathy.com/blog/grace-hopper-recruiting/</link>
+      <pubDate>Mon, 24 Aug 2020 19:00:30 -0400</pubDate>
+      
+      <guid>http://nehasatapathy.com/blog/grace-hopper-recruiting/</guid>
+      <description>&lt;p&gt;I went to my first GHC in my &lt;strong&gt;third&lt;/strong&gt; year of college.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Everything You Need To Know About The Grace Hopper Conference</title>
+      <link>http://nehasatapathy.com/blog/grace-hopper/</link>
+      <pubDate>Sat, 22 Aug 2020 19:00:30 -0400</pubDate>
+      
+      <guid>http://nehasatapathy.com/blog/grace-hopper/</guid>
+      <description>&lt;p&gt;Having attended GHC twice (once as a student actively recruiting and once as a professional looking to network and learn more about tech x female empowerment), I have developed a good understanding of what is out there for conference attendees, and have summarized my findings and thoughts on the conference for you in this post!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hello!</title>
@@ -17,10 +53,11 @@
       <pubDate>Sat, 08 Aug 2020 16:11:13 -0400</pubDate>
       
       <guid>http://nehasatapathy.com/blog/hello/</guid>
-      <description>&lt;p&gt;#Hi&lt;/p&gt;
-&lt;p&gt;##WELCOME to my first blog!!!##&lt;/p&gt;
-&lt;p&gt;A little bit about me- I&amp;rsquo;m currently pursuing an undergrad double degree in Computer Science and Finance, and am SUPER into both topics.&lt;/p&gt;
-&lt;p&gt;This entire website/blog has been kind of a result of COVID quarantine cabin fever and also a childhood desire to build something. This summer, I had the amazing opportunity to intern on Google Sheets, where I delved into front end&lt;/p&gt;</description>
+      <description>&lt;!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+ --&gt;
+&lt;h3 id=&#34;welcome-to-my-first-blog&#34;&gt;WELCOME to my first blog!!!&lt;/h3&gt;
+&lt;p&gt;HELLO! My name is Neha and I have no business starting this blog &lt;em&gt;but&lt;/em&gt; I set a goal for myself to feel more comfortable writing this year and want to use this platform to document the random things I deep dive and learn about.&lt;/p&gt;
+&lt;h4 id=&#34;a-little-bit-about-me&#34;&gt;A little bit about me..&lt;/h4&gt;</description>
     </item>
     
   </channel>
