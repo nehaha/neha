@@ -8,59 +8,20 @@
 </head>
 
 <body>
-
-	<!-- Header -->
-	<header id="header" class="alt">
-		<div class="logo">
-			<a href="https://www.nehasatapathy.com"> <span></span></a>
-			<a role="button" class="toggle-open" id="openMenu">
-				<span onclick="toggleOpenMenu()">
-					<i class="fa fa-bars menu-icon-styling"></i>
-				</span>
-			</a>
+	<div class="container">
+		<div class="headline">
+			<div class="header-pic">
+				<img src="circle-cropped.png" alt="meh" style="max-width: 100%; height: auto;">
+			</div>
+			<div class="header-words">
+				<h1>Neha Satapathy</h1>
+				<a class="typewrite" data-period="2000" data-type='[ "Software Engineer.", "Finance Nerd.", "Tea Enthusiast.", "I Love Donuts." ]'>
+					<span class="wrap"></span>
+				</a>
+			</div>
 		</div>
-		
-	</header>
-
-	<!-- Content -->
-	<div class="about-content" id="about">
-		<div class="about-header"> About </div>
-		<div class="about-body">
-			<p>Hi, I'm Neha!</p>
-			<p>
-				I'm currently studying Computer Science and Finance at the University of Maryland, College Park (Go terps woo), and have interned at JP Morgan, Facebook, and Google (x2). I am driven by my passion for making life easier for others, and enjoy keeping myself busy learning about new tools and technology that accomplish this. 
-			</p>
-			<p>
-				I also LOVE learning about anything and everything related to investing or real estate in my free time. When I am not geeking out about about tech or finance, you can usually find me reading a memoir or deep diving into whatever else is interesting me at the moment with a warm cup of tea in hand(:
-			</p>
-			<p>
-				Please feel free to reach out if you have any questions, opportunities, or anything cool to share! I am more than happy to chat.
-			</p>
-		</div>
-		<!-- <div class="pic-me">
-			<img src="circle-cropped.png" alt="meh" style="max-width: 100%;
-  height: auto;">
-		</div> -->
-	</div>
-
-	<!-- Nav -->
-	<nav class="navigation-bar" id="menu">
-		<a role="button" class="toggle-close">
-			<span onclick="toggleCloseMenu()">
-				<i class="fa fa-times menu-icon-styling"></i>
-			</span>
-		</a>
 		<ul class="links">
-			<li class="menu-item">
-				<a href="https://www.nehasatapathy.com" class="menu-link">Home</a>
-			</li>
-			<!-- <li class="menu-item">
-				<a href="about.html" class="menu-link">About me</a>
-			</li> -->
-			<li class="menu-item">
-				<a href="blog/" class="menu-link">Blog</a>
-			</li>
-			<div class="social-medias">
+			<div class="socials">
 				<a href="https://www.linkedin.com/in/nehasatapathy/" target="_blank">
 					<i class="fab fa-linkedin"></i>				
 				</a>
@@ -70,20 +31,50 @@
 				<a href="https://www.goodreads.com/user/show/57467394-neha-satapathy" target="_blank"> 
 					<i class="fab fa-goodreads-g"></i>
 				</a>
-				<!-- <p class="copyright"> © Neha Satapathy 2020</p> -->
-			</div>
+				<a href="https://twitter.com/nehaha_" target="_blank"> 
+					<i class="fab fa-twitter"></i>
+				</a>
+				<!-- <a href="https://www.youtube.com/channel/UCLphzsF-AIYpIIuDhBe7U6g" target="_blank">
+					<i class="fab fa-youtube"></i>
+				</a> -->
+				<a href="mailto:n.satapathy02@gmail.com">
+					<i class="fas fa-envelope"></i>
+				</a>
+				<!-- <a href="https://nehasatapathy.com/blog/" target="_blank"> blog </a> -->
+			</div>	
 		</ul>
-	</nav>
-
-	<div class="video-background-wrapper">
-		<!-- The video -->
-		<video autoplay muted loop id="myVideo" class="video-background">
-			<source src="bangkok-city.mp4" type="video/mp4">
-		</video>
-	</div>	
-
-	<!-- Scripts -->
+		<div class="about">
+			<div class="about-body">
+				<p>Hi, I'm Neha!</p>
+				<p>
+					I'm currently studying Computer Science and Finance at the University of Maryland, College Park (Go terps woo), and have interned at JP Morgan, Facebook, and Google (x2). I am driven by my passion for making life easier for others, and enjoy keeping myself busy learning about new tools and technology that accomplish this. 
+				</p>
+				<p>
+					I also LOVE learning about anything and everything related to investing or real estate in my free time. When I am not geeking out about about tech or finance, you can usually find me reading a memoir or deep diving into whatever else is interesting me at the moment with a warm cup of tea in hand(:
+				</p>
+				<p>
+					Please feel free to reach out if you have any questions, opportunities, or anything cool to share! I am more than happy to chat.
+				</p>
+			</div>
+		</div>
+		<div class="fun-mode-toggler">
+			<div class="toggle dog-rollover">
+				<input id="doggo" type="checkbox"/>
+				<label class="toggle-item" for="doggo">
+					<div class="dog">
+						<div class="ear"></div>
+						<div class="ear right"></div>
+						<div class="face">
+							<div class="eyes"></div>
+							<div class="mouth"></div>
+						</div>
+					</div>
+				</label>
+			</div>
+		</div>
+	</div>
+	
+	
 	<script src="main.js"></script>
-
 </body>
 </html>
