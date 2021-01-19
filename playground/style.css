@@ -84,6 +84,7 @@ h1 {
 
 ul {
     padding-inline-start: 0px;
+    margin-block-start: 0;
 }
 
 .socials {
@@ -94,13 +95,13 @@ ul {
 ul.links > div > a:not(.button) {
     color: var(--header-color);
     line-height: 3.5em;
-    font-size: 20px;
+    font-size: 25px;
     border-width: 0px;
     border-style: initial;
     border-color: initial;
     border-image: initial;
     text-decoration: none;
-    padding: 5px;
+    padding: 0 15px;
 }
 
 ul.links > div > a:not(.button):hover {
